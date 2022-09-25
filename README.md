@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Mikhail
 
-<h4 align="left" >
+<h3 align="left" >
 <a href='https://t.me/dezzerlol'>@telegram</a> <br />
 <a href='https://www.linkedin.com/in/mikhail-baev1/'>@linkedin</a> <br />
 <a href='https://twitter.com/dezzerlul'>@twitter</a> <br />
-</h4>
+</h3>
 
 
 <h2 align="left">I code with</h2>
